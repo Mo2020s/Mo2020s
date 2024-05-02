@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mo2020s/Mo2020s/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
