@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about advanced JavaScript frameworks like React, as well as diving deeper into CSS animations and frontend optimization techniques.<br>🎯 Goals: My goals include mastering frontend development, contributing to open-source projects, and eventually becoming proficient in full-stack development.<br>🎲 Fun fact: I can spend hours debating the best indentation style for code with my fellow developers. Tabs vs. spaces, anyone?</p>
 
 ###
 
