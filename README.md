@@ -14,12 +14,12 @@
  🌱 I’m currently learning **React, Bootstrap, Jest**
  
 
-⚡ Fun fact ** I can spend hours debating the best indentation style for code with my fellow developers. Tabs vs. spaces, anyone ?**
+⚡ Fun fact I can spend hours debating the best indentation style for code with my fellow developers. Tabs vs. spaces, anyone ?
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:muhammadawwadawwadpp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
