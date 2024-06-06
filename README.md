@@ -9,7 +9,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **React, Bootstrap, Jest**
+ 🌱 I’m currently learning **React, Tailwind, Jest**
  
 
 ⚡ Fun fact I can spend hours debating the best indentation style for code with my fellow developers. Tabs vs. spaces, anyone ?
